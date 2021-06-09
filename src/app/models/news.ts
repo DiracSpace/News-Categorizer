@@ -5,6 +5,7 @@ export class News {
 }
 
 export class Articles {
+    classifier?: "";
     source: Source = new Source;
     author: string = "";
     title: string = "";

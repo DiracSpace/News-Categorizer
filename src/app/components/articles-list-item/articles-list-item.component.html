@@ -1,0 +1,21 @@
+<div class="card text-white bg-dark mb-3" (click)="onArticleClicked()">
+
+    <div class="card-body">
+
+        <li class="d-flex align-items-center">
+
+            <div class="cover-img-item">
+                <img class="img-fluid rounded-circle profile" [src]="coverImage" alt="cover" (error)="onImageNotFound()">
+            </div>
+
+            <div class="card-content">
+                <h6>{{ article.title }}</h6>
+
+                <p class="mb-0">{{ article.description }}</p>
+            </div>
+
+        </li>
+
+    </div>
+
+</div>
