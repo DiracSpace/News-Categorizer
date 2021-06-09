@@ -90,8 +90,7 @@ export class AppComponent implements OnInit {
 
   private classifyArticles() {
     this.articles.forEach(async a => a.classifier = await classifier.categorize(a.content));
-
-    console.log(this.articles);
+    this.isLoaded = true;
   }
 
   private async getTestData() {
