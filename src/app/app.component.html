@@ -1,6 +1,3 @@
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
-<!-- * * * * * * * * * * * The content below * * * * * * * * * * * -->
-<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
 <div class="flexbox-container">
   <div class="flexbox-container-child">
 
@@ -13,6 +10,15 @@
       <div *ngIf="isLoaded">
 
           <h1>loaded</h1>
+
+          <div class="container">
+            
+            <app-articles-list
+              [articles]="articles"
+              (selected)="onArticleSelect($event)">
+            </app-articles-list>
+
+          </div>
 
       </div>
 

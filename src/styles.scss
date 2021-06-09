@@ -1,1 +1,44 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #3e444be3;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style: none;
+}
+
+h6 {
+    color: #adafb1;
+}
+
+p {
+    color: #727274;
+}
+
+div.flexbox-container {
+    justify-content: center;
+    display: flex;
+
+    div.flexbox-container-child {
+        text-align: center;
+    }
+}
+
+.profile {
+    max-width: 80px;
+    min-width: 80px;
+    width: 80px;
+    height: 80px;
+}
+
+.card-content {
+    margin-left: 25px;
+}
+
+.selected {
+    border: 3px solid #66CDCC;
+    box-shadow: 0px 0px 10px 3px #66CDCC;
+}

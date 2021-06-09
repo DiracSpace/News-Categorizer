@@ -1,0 +1,10 @@
+<ul class="list-group">
+    <div *ngFor="let article of articles" class="mb-3">
+        
+        <app-articles-list-item 
+            [article]="article" 
+            (selected)="onArticleSelect(article)">
+        </app-articles-list-item>
+
+    </div>
+</ul>
