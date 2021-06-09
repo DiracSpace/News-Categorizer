@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 127,
+    "articles": [
+    {
+    "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Catie Keck",
+            "title": "HBO Max has been busted for days",
+            "description": "HBO Max’s ongoing issues on the Apple TV are pinned to an app update introduced June 5th. Users have reported that basic playback functionality — such as fast-forwarding, rewinding, and pausing — is currently not supported on the streaming app.",
+            "url": "https://www.theverge.com/2021/6/8/22525177/hbo-max-apple-tv-broken-button-controls",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/S-uoGt_VUFB2TrSxbbWNLE-kPrQ=/0x39:2040x1107/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20015310/acastro_200602_1777_HBOMax_0003.0.jpg",
+            "publishedAt": "2021-06-09T00:44:19Z",
+            "content": "Illustration by Alex Castro / The Verge\r\n\n \n\n If you’ve attempted to stream something on HBO Max from an Apple TV sometime during the last several days, you may have noticed that its player controls … [+2646 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Stockmarket.com"
+            },
+            "author": "Adam Lawrence",
+            "title": "Top Stocks To Watch Today? 5 Consumer Discretionary Stocks To Know",
+            "description": "Could now be the time to add these hot consumer discretionary stocks to your watchlist?",
+            "url": "https://stockmarket.com/featured/top-stocks-to-watch-today-5-consumer-discretionary-names-to-know-2021-06-08",
+            "urlToImage": "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-374065.jpeg",
+            "publishedAt": "2021-06-09T00:26:28Z",
+            "content": "This story originally appeared on StockMarketShould Investors Be Watching These Top Consumer Discretionary Stocks Now?\r\nAs investors navigate a somewhat volatile stock market with meme stocks leading… [+6715 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "iOS 15 and macOS Monterey Introduce Ability to Capture 15-Second Gameplay Recordings Using a Game Controller",
+            "description": "Apple's new iOS 15, iPadOS 15, and macOS Monterey software updates unveiled this week introduce the ability to capture and save the last 15 seconds of gameplay at any time by long pressing a designated button on a supported game controller.\n\n\n\n\n\nInstead of ha…",
+            "url": "https://www.macrumors.com/2021/06/08/ios-15-macos-monterey-15-second-game-highlights/",
+            "urlToImage": "https://images.macrumors.com/t/0hpkGZJKNzMqyums50FPzEL2Jtg=/1600x/https://images.macrumors.com/article-new/2021/05/ps5-controller-apple-online-store.jpeg",
+            "publishedAt": "2021-06-09T00:23:52Z",
+            "content": "Apple's new iOS 15, iPadOS 15, and macOS Monterey software updates unveiled this week introduce the ability to capture and save the last 15 seconds of gameplay at any time by long pressing a designat… [+738 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Apple Brings Back Magnifying Glass For Selecting Text In iOS 15",
+            "description": "Apple's text selection magnifying glass has reappeared in the iOS 15 beta, and Apple's own site confirms its return by listing it as a feature. The Verge reports: Bringing the feature back is a reversal from when Apple made the decision to dump it in iOS 13, …",
+            "url": "https://apple.slashdot.org/story/21/06/08/2156200/apple-brings-back-magnifying-glass-for-selecting-text-in-ios-15",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ios_64.png",
+            "publishedAt": "2021-06-09T00:45:00Z",
+            "content": "Bringing the feature back is a reversal from when Apple made the decision to dump it in iOS 13, which is a bit of a rare occurrence... The new version of the text magnifier seems to be a bit smaller … [+677 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Boing Boing's Shop",
+            "title": "This complete SwitftUI guide will teach you how to build apps for any Apple device",
+            "description": "For the past two years, app developers have slowly been warming to the advantages of SwiftUI. Much like its other offerings, Apple sought to make this app development arena a be-all, end-all solution for creating across the wide range of Apple products.   — R…",
+            "url": "https://boingboing.net/2021/06/08/this-complete-switftui-guide-will-teach-you-how-to-build-apps-for-any-apple-device.html",
+            "urlToImage": "https://i1.wp.com/boingboing.net/wp-content/uploads/2021/06/sale_295478_article_image.jpeg?fit=1200%2C800&ssl=1",
+            "publishedAt": "2021-06-09T02:30:00Z",
+            "content": "For the past two years, app developers have slowly been warming to the advantages of SwiftUI. Much like its other offerings, Apple sought to make this app development arena a be-all, end-all solution… [+2133 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "John Gruber",
+            "title": "Your Truly on CNBC’s TechCheck Today",
+            "description": "John Gruber, 'Daring Fireball' author and Apple expert, joins 'Tech Check' to discuss his thoughts after the first day of Apple's Worldwide Developers Conference and whether he thinks the company is breaking any new ground.",
+            "url": "https://www.cnbc.com/video/2021/06/08/apple-expert-with-key-highlights-from-the-companys-developer-conference.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106893889-16231676351623167632-16630205500-1080pnbcnews.jpg?v=1623167635",
+            "publishedAt": "2021-06-09T01:45:23Z",
+            "content": "I enjoy doing these quick hits on CNBC. I get on, I get a few questions, I answer as best I can, and I’m out. Two tidbits on my spot today:\n\n<ul>\n<li>It seems like a widespread misconception that iCl… [+726 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "iOS 15 enables Siri personal requests with ‘Unlock with Apple Watch’ feature",
+            "description": "iOS 14.5, which was released to the public earlier this year, brought an important new feature that lets users unlock an iPhone using the Apple Watch instead of Face ID when wearing a mask. With iOS 15, Apple is expanding this feature by enabling personal req…",
+            "url": "https://9to5mac.com/2021/06/08/ios-15-enables-siri-personal-requests-with-unlock-with-apple-watch-feature/",
+            "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/Unlock-Siri-with-Apple-Watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-06-09T02:16:43Z",
+            "content": "iOS 14.5, which was released to the public earlier this year, brought an important new feature that lets users unlock an iPhone using the Apple Watch instead of Face ID when wearing a mask. With iOS … [+1822 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Steeber",
+            "title": "Apple launches virtual Today at Apple session to empower small business owners",
+            "description": "Apple is offering small businesses and entrepreneurs the tools to get ahead with a new virtual Today at Apple session. Guided by Apple’s Creative Pros, you’ll learn how to capture eye-catching photos for your business that stand out on social media and how to…",
+            "url": "https://9to5mac.com/2021/06/08/today-at-apple-business-photography-virtual-session/",
+            "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/taa_business_photography.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-06-09T02:29:14Z",
+            "content": "Apple is offering small businesses and entrepreneurs the tools to get ahead with a new virtual Today at Apple session.\r\nGuided by Apples Creative Pros, youll learn how to capture eye-catching photos … [+1016 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (AppleInsider Staff)",
+            "title": "Apple airs first WWDC21 session recaps on YouTube",
+            "description": "As it has done in recent years, Apple this week began to post video recaps of Worldwide Developers Conference sessions and their highlights to its official YouTube channel.The first video, \"WWDC21 Day 1: iO-Yes!,\" aired on Monday to summarize a keynote that i…",
+            "url": "https://appleinsider.com/articles/21/06/09/apple-airs-first-wwdc21-session-recaps-on-youtube",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/42516-82486-210608-WWDC21-xl.jpg",
+            "publishedAt": "2021-06-09T00:05:25Z",
+            "content": "As it has done in recent years, Apple this week began to post video recaps of Worldwide Developers Conference sessions and their highlights to its official YouTube channel. \r\nThe first video, \"WWDC21… [+1610 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Mike Peterson)",
+            "title": "Senate approves $250B bill to boost US technology manufacturing",
+            "description": "The U.S. Senate has approved a major bipartisan industrial bill to boost the country's technology manufacturing and increase competitiveness with China, with some funds going toward computer chip production.Credit: WikiMediaThe $250 billion bill, the U.S. Inn…",
+            "url": "https://appleinsider.com/articles/21/06/09/senate-approves-250b-bill-to-boost-us-technology-manufacturing",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/42515-82485-38032-71968-201001-Congress-xl-xl.jpg",
+            "publishedAt": "2021-06-09T00:13:17Z",
+            "content": "The U.S. Senate has approved a major bipartisan industrial bill to boost the country's technology manufacturing and increase competitiveness with China, with some funds going toward computer chip pro… [+2275 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Matt Schimkowitz",
+            "title": "Users say that HBO Max, which costs $15 a month, has been broken for a week",
+            "description": "HBO Max, ostensibly the streaming service with the best library, can’t get its tech together. Last week, Apple TV users began complaining about the app malfunctioning, saying that, following a recent update, the app refuses to rewind, fast-forward, or pause. …",
+            "url": "https://www.avclub.com/users-say-that-hbo-max-which-costs-15-a-month-has-be-1847059459",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6f2925cf5b48b1335c9d113270b76c4b.png",
+            "publishedAt": "2021-06-09T02:43:00Z",
+            "content": "HBO Max, ostensibly the streaming service with the best library, cant get its tech together. Last week, Apple TV users began complaining about the app malfunctioning, saying that, following a recent … [+2288 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Joe Wituschek",
+            "title": "A new 'World Timer' Apple Watch face was just revealed at WWDC 2021",
+            "description": "What you need to know\n\n\nwatchOS 8 is getting not one, but two new watch faces.\nA new World Timer watch face was revealed during a WWDC21 session.\n\n\nThe new portrait watch face isn't the only new one coming with watchOS 8.\n\nDuring the WWDC21 keynote, Apple hig…",
+            "url": "https://www.imore.com/new-world-timer-watch-face-watchos-8-just-popped-wwdc",
+            "urlToImage": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/apple-watch-face-world-timer-watchos-8.jpg",
+            "publishedAt": "2021-06-09T01:28:15Z",
+            "content": "During the WWDC21 keynote, Apple highlighted a new portrait watch face that users could choose with the new watchOS 8 update that is set to release to all users this fall. However, that does not appe… [+2049 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ty Pendlebury （CNET News） 翻訳校正： 桑井章裕 高森郁哉 （ガリレオ）",
+            "title": "「Apple Music」で「Dolby Atmos」による空間オーディオが利用可能に",
+            "description": "「Apple Music」で米国時間6月8日より空間オーディオが利用可能になった。",
+            "url": "https://japan.cnet.com/article/35172046/",
+            "urlToImage": "https://japan.cnet.com/storage/2021/06/09/33dee770f677feb8107eafe532dc350f/t/640/480/d/apple-music-2257_1280x960.jpg",
+            "publishedAt": "2021-06-09T02:04:00Z",
+            "content": "68Apple MusicApple\r\nAppleGagan GuptaWWDC 2021Ariana GrandeThe WeekndJ BalvinKacey Musgraves\r\nApple2020AirPods ProAirPods Pro\r\n2Dolby LaboratoriesDolby Atmos Music360 Reality AudioAppleAtmos\r\nApple Mu… [+228 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm,Hiroshi Iwatani",
+            "title": "アップルが豪雨のようにアップデートを発表するも、ウォール街はあくび",
+            "description": "米国時間6月7日に行われたApple（アップル）のWWDCでのキーノートには<a target=\"_blank\" href=\"https://jp.techcrunch.com/tag/wwdc21/\" rel=\"noopener noreferrer\">膨大な数の発表</a>があった。<a target=\"_blank\" href=\"https://jp.techcrunch.com/2021/06/08/2021-06-07-apple-unveils-macos-12-monterey/\" rel=\"noo…",
+            "url": "https://jp.techcrunch.com/2021/06/09/2021-06-07-apple-releases-torrent-of-updates-and-wall-street-yawns/",
+            "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2021/06/wwd0.jpg?w=730",
+            "publishedAt": "2021-06-09T00:50:34Z",
+            "content": "67AppleWWDCmacOSwatchOSiOSFaceTimeiCloud+\r\nmacOS 12 MontereyPCwatchOS 8iOS 154FaceTimeiOS 15FaceTimeAndroidiCloudiCloud+\r\nApple\r\nApple\r\nApple\r\nAppleNASDAQ\r\nYChartsApple\r\nNASDAQ\r\nChartMasterAppleNASDA… [+79 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller,Nariko Mizoguchi",
+            "title": "米国の2021年第1四半期のPC出荷台数は73％増、Chromebookが好調",
+            "description": "パンデミックによる需要増を受け、米国の2021年第1四半期のPC出荷台数は前年同期比<a target=\"_blank\" href=\"https://www.canalys.com/newsroom/us-pc-market-q1-2021?ctid=2122-fb76209fd80bef7f0644eb40d74d243f\" rel=\"noopener noreferrer\">73％増</a>となった、とCanalysは発表した。計3400万ユニットが販売された。Appleの出荷台数は36％増と好調だったが、H…",
+            "url": "https://jp.techcrunch.com/2021/06/09/2021-06-08-u-s-pc-shipments-soar-73-in-the-first-quarter-as-apple-falls-from-top-spot/",
+            "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2021/06/PC.jpeg?w=1024",
+            "publishedAt": "2021-06-09T02:00:19Z",
+            "content": "20211PC73Canalys3400Apple36HP1100122.6Apple\r\nCanalys1AppleHP116Samsung92.8LenovoDell29.2\r\nPCCanalys ResearchBrian Lynch2020PC2021111\r\nCanalys\r\nPCPCChromebookApple Apple\r\nSamsungChromebook2020Chromebo… [+155 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "发布会上没提到的 iOS 15 新功能：一般音乐也能模拟成空间化立体声",
+            "description": "在 WWDC2021 开发者大会开幕后，苹果公司如期在 Apple Music 中推出了无损音乐和杜比全景声。但苹果没提到的是，他们扩大了对空间音频 （Spatial Audio） 的支持范围，如果用 AirPods Pro 等耳机听一般立体声音乐，也能感受到。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1138353.htm",
+            "urlToImage": "https://n.sinaimg.cn/tech/transform/394/w630h1364/20210609/5dac-krhvrxt0378429.jpg",
+            "publishedAt": "2021-06-09T00:17:10Z",
+            "content": "WWDC FaceTime Apple TV AirPods Pro AirPods Max iOS 15 \r\n AirPods Pro AirPods Max macOS Monterey \r\n App AirPods Pro \r\niOS 14 360 AirPods Pro AirPods Max \r\nApple TV + Disney + Dolby Atmos iOS 15 AirPod… [+16 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "MacStories"
+            },
+            "author": "John Voorhees",
+            "title": "Eddy Cue On Why Spatial Audio Is a Game-Changer",
+            "description": "Billboard’s Micah Singleton interviewed Apple executive Eddy Cue about this week’s update to Apple Music, which added Spatial Audio, a surround sound technology based on Dolby Atmos, and lossless streaming. In the interview, Cue explains why Apple is enthusia…",
+            "url": "https://www.macstories.net/news/eddy-cue-on-why-spatial-audio-is-a-game-changer/",
+            "urlToImage": "https://cdn.macstories.net/appicon120_2-1622650311739.png",
+            "publishedAt": "2021-06-09T01:15:54Z",
+            "content": "Billboard’s Micah Singleton interviewed Apple executive Eddy Cue about this week’s update to Apple Music, which added Spatial Audio, a surround sound technology based on Dolby Atmos, and lossless str… [+2524 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "MacStories"
+            },
+            "author": "Alex Guyot",
+            "title": "watchOS 8: The MacStories Overview",
+            "description": "At yesterday’s WWDC keynote event, Apple’s VP of Technology Kevin Lynch announced watchOS 8. The latest iteration of the Apple Watch operating system includes advancements in health features, a refreshed take on photos, improved text input, and more. Apple di…",
+            "url": "https://www.macstories.net/stories/watchos-8-the-macstories-overview/",
+            "urlToImage": "https://cdn.macstories.net/hero-1623195666815.png",
+            "publishedAt": "2021-06-09T00:30:58Z",
+            "content": "At yesterday’s WWDC keynote event, Apple’s VP of Technology Kevin Lynch announced watchOS 8. The latest iteration of the Apple Watch operating system includes advancements in health features, a refre… [+10135 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "author": "ITmedia",
+            "title": "ハイレゾ配信「Amazon Music HD」日本でも追加料金不要に",
+            "description": "聴き放題「Amazon Music Unlimited」で、有料オプションだったハイレゾストリーミング「HD」が無料に。",
+            "url": "https://www.itmedia.co.jp/news/articles/2106/09/news069.html",
+            "urlToImage": "https://image.itmedia.co.jp/news/articles/2106/09/cover_news069.jpg",
+            "publishedAt": "2021-06-09T01:10:00Z",
+            "content": "69Amazon Music UnlimitedAmazon Music HD751\r\nAmazon Music Unlimited780980Amazon Music HDUnlimited10002019\r\nAmazon Music HDAmazonCD16bit/44.1kHzHD750024bit/192kHzULTRA HD700\r\nApple MusicApple Lossless … [+67 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Eric Volkman)",
+            "title": "Report: Apple in Talks Over Batteries for Apple Car",
+            "description": "Apparently, the U.S. tech giant is discussing supply deals with a pair of Chinese companies.",
+            "url": "https://www.fool.com/investing/2021/06/08/report-apple-in-talks-over-batteries-for-apple-car/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/630098/car-speeding-along-a-highway.jpg",
+            "publishedAt": "2021-06-09T01:16:51Z",
+            "content": "Is the Apple(NASDAQ:AAPL) Car getting closer to realization? According to a report published Tuesday by Reuters, the answer is \"yes.\" In the article, which cited \"people with knowledge of the matter,… [+1537 chars]"
+        }
+    ]
+}
